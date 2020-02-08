@@ -6,7 +6,7 @@ import "./App.css";
 const App = () => {
   return (
     <div className='App'>
-      <TextField text='hello' Person={{ firstName: "", lastName: "" }} />
+      <TextField />
     </div>
   );
 };
